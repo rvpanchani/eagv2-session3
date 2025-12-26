@@ -4,6 +4,8 @@ An AI agent that uses Gemini to solve problems iteratively by calling MCP (Model
 
 ![Demo](excalidraw-mcp.gif)
 
+[![Watch the demo](https://img.shields.io/badge/YouTube-Watch%20Demo-red?logo=youtube)](https://www.youtube.com/watch?v=xRi1a7KRXNE)
+
 ## Overview
 
 This project demonstrates:
